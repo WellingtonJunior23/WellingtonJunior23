@@ -1,4 +1,4 @@
-## **Wellington Junior** ##
+## 👨🏻‍💻**Wellington Junior** ##
 
 **`Analista de Sistemas Sênior`**
 
