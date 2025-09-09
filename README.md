@@ -2,7 +2,7 @@
 
 **`Analista de Sistemas Sênior`**
 
-Me chamo Wellington Damasio Junior, sou Analista de Sistemas com mais de 10 anos de experiência em desenvolvimento e sustentação de aplicações críticas, com foco em .NET, C#, Java, Angular, Javascript, Dynamics 365, Power Platform, REST APIs, AWS e SQL Server, atuando principalmente em ambientes bancários e financeiros. Entrego soluções robustas, seguras e escaláveis, que não apenas resolvem problemas técnicos, mas também que geram valor real para o negócio.
+Olá! Sou Wellington, profissional de tecnologia com mais de **10 anos de experiência** em desenvolvimento e sustentação de sistemas corporativos. Formado em **Análise e Desenvolvimento de Sistemas**, atuo com foco em **soluções escaláveis, seguras e orientadas ao negócio**, utilizando tecnologias como **.NET, C#, Java, Spring Boot e AWS**.
 
 ---
 
@@ -87,6 +87,15 @@ Me chamo Wellington Damasio Junior, sou Analista de Sistemas com mais de 10 anos
         title="CS33"
         width="30px"
         style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"          
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
     />
+    <br>  
 </html> 
+
+  ---
+  ### 🤝 Conecte-se comigo ###
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/wellington-analistadesistemas/)  
+- 📫 Email: junior.mac91@hotmail.com 
+
+
