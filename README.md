@@ -2,7 +2,7 @@
 
 **`Analista de Sistemas Sênior`**
 
-Olá! Sou Wellington, profissional de tecnologia com mais de **10 anos de experiência** em desenvolvimento e sustentação de sistemas corporativos. Formado em **Análise e Desenvolvimento de Sistemas**, atuo com foco em **soluções escaláveis, seguras e orientadas ao negócio**, utilizando tecnologias como **.NET, C#, Java, Spring Boot e AWS**.
+Olá! Sou Wellington, profissional de tecnologia com mais de **10 anos de experiência** em desenvolvimento e sustentação de sistemas corporativos. Formado em **Análise e Desenvolvimento de Sistemas**, atuo com foco em **soluções escaláveis, seguras e orientadas ao negócio**, utilizando tecnologias como **.NET, C#, Java, Spring Boot e Cloud**.
 
 ---
 
